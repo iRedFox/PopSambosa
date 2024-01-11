@@ -1,4 +1,4 @@
-Welcome to the PopSambosa app for Android/IOS!
+Welcome to the SuperAxe app for Android/IOS!
 
 This is a game developed by RedFox. The app is available on Google Play and soon in AppStore.
 
@@ -8,6 +8,6 @@ I have not programmed this app to collect any personally identifiable informatio
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email and I will surely try to fix it/help you.
 
 Yours sincerely,
-Yousuf Ghanem/Ali Ghanem.
+Yousuf Ghanem.
 Ontario, Canada.
 redfoxcoding.sponsor@gmail.com
